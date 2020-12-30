@@ -1,22 +1,22 @@
 ## version $VER: SystemPrefsWindow.catalog 2.0 (28.12.2020)
-## language tÃ¼rkÃ§e
+## language türkçe
 ## codeset 12
 ;
 ;
 MSG_MENU_PREFS
-TerÃ§ihler
+Terçihler
 ; Preferences
 ;
 MSG_MENU_PREFS_IMPORT
-I\0Ä°Ã§e aktar...
+I\0Ýçe aktar...
 ; I\0Import...
 ;
 MSG_MENU_PREFS_EXPORT
-E\0DÄ±ÅŸa aktar...
+E\0Dýþa aktar...
 ; E\0Export...
 ;
 MSG_MENU_PREFS_TEST
-T\0SÄ±na
+T\0Sýna
 ; T\0Test
 ;
 MSG_MENU_PREFS_REVERT
@@ -32,21 +32,21 @@ U\0Kullan
 ; U\0Use
 ;
 MSG_MENU_PREFS_CANCEL
-C\0VazgeÃ§
+C\0Vazgeç
 ; C\0Cancel
 ;
 MSG_MENU_PREFS_EXPORT_WITH_ICON
-Simge ile dÄ±ÅŸa aktar...
+Simge ile dýþa aktar...
 ; Export with Icon...
 ;
 MSG_MENU_RESET_TO_DEFAULTS
-VarsayÄ±lana SÄ±fÄ±rla
+Varsayýlana Sýfýrla
 ; Reset to Defaults
 ;
 MSG_FILEREQ_EXPORT_TITLE
-DÄ±ÅŸa aktar
+Dýþa aktar
 ; Export
 ;
 MSG_FILEREQ_IMPORT_TITLE
-Ä°Ã§e aktar
+Ýçe aktar
 ; Import
